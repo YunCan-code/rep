@@ -5,3 +5,5 @@ this is a readme.txt!
 添加文件到git仓库：
 1.git add fileNames
 2.git commit -m "meassage"
+
+回退
